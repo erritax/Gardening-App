@@ -1,11 +1,5 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Parent Class
-# To setup screen and define variables needed in multiple screens
-
 #import important libraries
 from tkinter import *
-
 
 class ScreenSetup(object):
     
