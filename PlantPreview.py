@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# PlantPreview Screen: Personalized plant preview screen; shows facts; allows user to update water date or go to journal
-
 #import important libraries and the parent class
 from tkinter import *
 from tkinter import messagebox
