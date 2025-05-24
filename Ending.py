@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# Ending Screen: User is logged out; allows re-login
-
 #import important libraries and the parent class
 from tkinter import *
 from tkinter import messagebox
