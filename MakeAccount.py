@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# Make Account Screen: Make new and unique account; create user's respective txt files
-
 #import important libraries and the parent class
 from tkinter import *
 from tkinter import messagebox
