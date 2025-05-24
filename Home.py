@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# Home Screen: User logins or has the option to make an account
-
 #import important libraries and the parent class
 from tkinter import *
 from tkinter import messagebox
