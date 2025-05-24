@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Runner File
-# To create an interactive and practical multi-screen app based on a client's request
-
 from tkinter import *
 
 #import parent class
