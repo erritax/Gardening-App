@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# PlantJournal Screen: User can update gardening actions and jot down daily notes
-
 #import important libraries and the parent class
 from tkinter import *
 import tkinter as tk
