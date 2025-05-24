@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# Date_Feelings Screen: To acquire the date + personal reflection
-
 #import important libraries and the parent class
 from tkinter import *
 from tkinter import messagebox
