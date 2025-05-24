@@ -1,8 +1,3 @@
-# Errita Xu
-# May 30, 2023
-# FP App - Child Class
-# Gallery Screen: Displays all the plant options as buttons and takes to preview screen when clicked
-
 #import important libraries and the parent class
 from tkinter import *
 from ScreenSetup import ScreenSetup
